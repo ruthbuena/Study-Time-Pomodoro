@@ -1,3 +1,3 @@
 Study-Time-Pomodoro
 
-25 minute Pomodoro timer to help encourage studying and coding time throughout the day!!!
+25 minute Pomodoro timer to help encourage myself to study and code throughout the day!!!
